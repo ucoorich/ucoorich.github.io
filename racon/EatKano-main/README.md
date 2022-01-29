@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ucoorich/ucoorich.github.io/blob/master/racon/await.png?raw=true" width="100" height="100" alt="Eatracon"></a>
+  <a href="https://raw.githubusercontent.com/ucoorich/ucoorich.github.io/master/racon/await.png?raw=true" width="100" height="100" alt="Eatracon"></a>
 </p>
 <div align="center">
 
